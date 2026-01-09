@@ -32,7 +32,7 @@ inputUser = float(input("masukan angka yang bernilai\nlebih dari 3 \ndan \nkuran
 isLebihDari = inputUser > 3
 print("Lebih dari 3 = ",isLebihDari)
 
-# +++++++++++++++10-------
+# +++++++++++++10-----------
 # kurang dari 10
 isKurangDari = inputUser < 10
 print("Kurang dari 10 = ",isKurangDari)
