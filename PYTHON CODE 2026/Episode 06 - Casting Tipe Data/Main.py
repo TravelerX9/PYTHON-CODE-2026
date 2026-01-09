@@ -31,7 +31,7 @@ print("====BOOLEAN====")
 data_bool = False;
 print("data = ", data_bool, ",type =",type(data_bool))
 
-data_int = int(data_bool) # akan dibulatkan ke bawah
+data_int = int(data_bool) # akan dibulatkan ke bawah.
 data_str   = str(data_bool)
 data_float  = float(data_bool) # akan false jika nilai float = 0
 print("data = ", data_int, ",type =",type(data_int))
