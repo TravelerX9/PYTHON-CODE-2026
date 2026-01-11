@@ -66,7 +66,7 @@ print("nilai c =",c)
 c ^= True
 print("nilai c ^= True, nilai c menjadi",c)
 
-# geser geser
+# geser geser.
 d = 0b0100
 print("\nnilai d =",format(d,'04b'))
 d >>= 2
