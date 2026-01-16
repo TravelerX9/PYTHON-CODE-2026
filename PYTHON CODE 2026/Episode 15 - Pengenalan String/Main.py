@@ -15,7 +15,7 @@ print(data)
 data = "Menggunakan double quote"
 print(data)
 
-print('"Halo, apa kabar?"')
+print('"Halo, apa kabar?."')
 print("'Halo, apa kabar?'")
 print("ini adalah hari jum'at")
 
