@@ -2,7 +2,7 @@ data = "ini adalah string"
 print(data)
 print(type(data))
 
-# 1. cara membuat string
+# 1. cara membuat string.
 
 '''
     1. dengan menggunakan single quote '...'
