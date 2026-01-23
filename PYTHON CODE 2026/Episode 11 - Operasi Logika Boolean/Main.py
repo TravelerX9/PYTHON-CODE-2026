@@ -10,7 +10,7 @@ print('data a =',a)
 print('-------------- NOT')
 print('data c =',c)
 
-# OR (jika salah satu true, maka hasilnya adalah true)
+# OR (jika salah satu true, maka hasilnya adalah true).
 print('====OR====')
 a = False
 b = False
