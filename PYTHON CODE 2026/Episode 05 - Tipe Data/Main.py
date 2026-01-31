@@ -1,6 +1,6 @@
 # a = 10, a adalah variabel dengan nilai 10
 
-# tipe data: Angka satuan yang gak ada
+# tipe data: Angka satuan yang gak ada.
 # koma nya (integer)
 data_integer = 11
 print("data : ", data_integer)
