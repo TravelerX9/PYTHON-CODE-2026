@@ -1,4 +1,4 @@
-# Variabel adalah tempat menyimpan data
+# Variabel adalah tempat menyimpan data.
 
 # menaru / assignment nilai.
 a = 10
