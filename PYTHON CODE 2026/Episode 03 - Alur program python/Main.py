@@ -3,7 +3,7 @@ start_time = time.time()
 
 print("Hello")
 print("World")
-print("Hello World")
+print("Hello World.")
 
 print("Halo Chantiiek")
 # ini adalah comment
